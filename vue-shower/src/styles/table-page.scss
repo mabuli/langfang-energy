@@ -1,0 +1,26 @@
+
+.table-page-root{
+  width:calc(100% - 40px);
+  margin:20px 20px 20px 20px;
+  height:calc(100% - 40px);
+}
+
+.align-left{
+  text-align: left;
+}
+
+.align-right{
+  text-align: left;
+}
+
+.modal-form{
+  margin:0 20% 0 10%;
+}
+
+.table-row{
+  margin-top:20px;
+}
+
+.ant-table-thead > tr > th, .ant-table-tbody > tr > td {
+  padding: 10px 16px;
+}
